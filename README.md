@@ -66,7 +66,7 @@ $ yarn build
 ### VCS rules
 When create any branch first checkout last stable branch
 ```sh
-$ git checkout production
+$
 ```
 
 Branch name conventions
